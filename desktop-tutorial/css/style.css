@@ -1,0 +1,67 @@
+body{
+	background-color:#f4f4f4;
+	color:#333333;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+
+}
+.box-1{
+	background-color:#555555;
+	color:#fff;
+	border:5px orange solid;
+	padding:5px;
+	margin:20px;
+	text-align:center;
+
+}
+.box-1 h1{
+	font-family:Tahoma;
+	font-weight:800;
+	font-style:italic;
+	text-transform:uppercase;
+
+
+}
+.block-1{
+	float:right;
+	width:50%;
+}
+.box-2{
+	border:3px coral dotted;
+	border-radius:15px;
+	margin:20px;
+	margin-right:10px;
+	text-align:center;
+
+}
+.table-1{
+	
+	border:3px coral dotted;
+	border-radius:15px;
+	padding:10px;
+	margin:20px;
+	margin-right:10px;
+	text-align:center;
+}
+.form-group{
+	margin-left:50px;
+}
+.form-group label{
+	display:block;
+
+}
+.box-3{
+	border:3px coral dotted;
+	border-radius:15px;
+	margin:20px;
+	margin-right:10px;
+	text-align:center;
+}
+.p-box{
+	margin:20px;
+	margin-right:10px;
+	text-align:center;
+}
